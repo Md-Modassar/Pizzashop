@@ -1,0 +1,58 @@
+.home{
+    height: 80vh;
+    width: 220vh;
+    margin-top: 0.2rem;
+    background-image: url('../../../public/bg2.jpg'); /* Adjust the URL based on your folder structure */
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding-top: 10rem;
+
+}
+.titele{
+    padding-left: 4rem;
+    padding-top: 1rem;
+    font-size: 13rem;
+    font-weight: 1rem;
+    color: black;
+    letter-spacing: 0.5rem;
+}
+.text{
+    padding-left: 8rem;
+    font-size: 4rem;
+    word-spacing: 1.5rem;
+    letter-spacing: 1rem;
+    margin-left: 3rem;
+}
+.btn{
+    background: rgb(177, 248, 36);
+    color: white;
+    border:none;
+    height: 8rem;
+    width: 15rem;
+    margin-left: 20rem;
+    align-items: center;
+    margin-top: 2.5rem;
+    border-radius: 0.5rem;
+    cursor: pointer;
+    font-size: 3rem;
+    letter-spacing: 0.2rem;
+
+
+}
+.btn:hover{
+    background:rgb(99, 231, 99);
+    color:black;
+    border:none;
+    height: 8rem;
+    width: 15rem;
+    margin-left: 19rem;
+    align-items: center;
+    margin-top: 3rem;
+    border-radius: 0.5rem;
+    cursor: pointer;
+    font-size: 3rem;
+    letter-spacing: 0.2rem;
+    
+    
+}

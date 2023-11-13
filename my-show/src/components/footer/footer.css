@@ -1,0 +1,30 @@
+
+.footer {
+    background-color: #bd3131;
+    color: #fff;
+    height: 10rem;
+    width: 220vh;
+    padding: 1rem 2rem;
+    text-align: center;
+    margin-top: 0.2rem;
+
+    
+
+
+  }
+  
+  .social-icons {
+    margin-top: 10px;
+
+  }
+  
+  .social-icons a {
+    color: #fff;
+    margin: 0 10px;
+    font-size: 60px;
+    text-decoration: none;
+  }
+  
+  .social-icons a:hover {
+    color: rgb(72, 255, 0); /* Change the color on hover if desired */
+  }

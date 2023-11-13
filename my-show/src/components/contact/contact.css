@@ -1,0 +1,49 @@
+.contact-form{
+    display: flex;
+    flex-direction: row;
+    margin-left: 1rem;
+}
+.imgcon{
+    height: 70vh;
+    
+
+    margin: 1rem;
+}
+.contact{
+    display: flex;
+    flex-direction: column;
+    margin-top: 1rem;
+    font-size: 4rem;
+    margin-left: 4rem;
+    background: rgb(25, 25, 25);
+    height: 70vh;
+    width: 70vh;
+    border-radius: 0.5rem;
+
+}
+
+.contactext{
+    
+    display:flex;
+    flex-direction: column;
+    padding: 1rem;
+    margin-left: 2rem;
+}
+.input{
+    border: none;
+    height: 2rem;
+    border-bottom: 1px solid #e8dddd;
+    font-size: 2rem;
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+}
+.conbtn{
+    color: rgb(10, 10, 10);
+    background: white;
+    height: 5rem;
+    width: 9rem;
+    margin-top: 4rem;
+    border-radius: 0.5rem;
+    cursor: pointer;
+    font-size: xx-large;
+}
